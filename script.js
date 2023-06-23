@@ -1,3 +1,4 @@
+
 function carregaDicionario() {
     var biografias = {
 
